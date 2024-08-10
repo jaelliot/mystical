@@ -22,7 +22,3 @@ Edit your .zshrc Plugins array to include your new plugin:
 plugins=(... Mystical)
 
 ```
-
-```
-
-```
