@@ -30,7 +30,7 @@ quotes=(
     "Death is but a doorway, a transition from one state of being to another. - Eleusinian Mysteries"
     "All is mind; the universe is mental. - The Kybalion"
     "As a man thinketh in his heart, so is he. - Book of Proverbs"
-    "The kingdom of heaven is within you; and whosoever shall know himself shall find it. - Egyptian Gospel of Thomas"
+    "The kingdom of heaven is within you; and whosoever shall know himself shall find it. - Gospel of Thomas"
     "There is no coming to consciousness without pain. - Carl Jung"
     "The only real valuable thing is intuition. - Albert Einstein"
     "The mystical experience is simply a sudden realization of who we really are. - Alan Watts"
@@ -65,7 +65,7 @@ tablet="
 # Display the greeting, date, and selected quote in light purple
 echo -e "\e[1;35m
                      Greetings, $username
-  It is $current_date. Today, the mystical will reveal itself.
+  It is $current_date. Today, I hope you succeed in your endeavors.
 $tablet
 
 $selected_quote
